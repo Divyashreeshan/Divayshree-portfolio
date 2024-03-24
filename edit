@@ -1,0 +1,71 @@
+</section>
+    <h1 class="sub-title">My<span>skills</span></h1>
+    <section>
+        <div class="container1" id="Skills">
+            <h1 class="heading1"></h1>
+         
+                <div class="bar"><i style="color: #c95d2e;"class='bx bxl-html5'></i>
+                    <div class="info">
+                        <span>HTML</span>
+                        <p><b>My expertise in HTML includes:</b></br>
+                            Ensuring proper use of tags for enhanced accessibility and search engine optimization.
+                            Implementing audio, video, and canvas elements to enhance the user experience.
+                            Ensuring compatibility and consistent rendering of web pages across different browsers.
+                            Troubleshooting and debugging HTML-related issues for optimal performance.
+                        </p>
+                    
+                    </div>
+                        <div class="progress-line html">
+                        <span></span>
+                        
+                    </div>
+                    <div class="bar"><i style="color: #147bbc;" class='bx bxl-css3'></i>
+                        <div class="info">
+                            <span>CSS</span>
+                            <p><b>this is css</p></p>
+                        
+                         </div>
+                            <div class="progress-line css">
+                            <span></span>
+                         </div>
+                            
+                        </div>
+                    </div>
+                    <div class="bar"><i style="color: #b0bc1e; "class='bx bxl-javascript'></i>
+                        <div class="info">
+                            <span>Javascript</span>
+                            <p><b>this is javascript</p></p>
+                        
+                        </div>
+                            <div class="progress-line Javascript">
+                            <span></span>
+                            
+                        </div>
+                        <div class="bar"><i style="color: #c32ec9;" class='bx bxl-python'></i>
+                            <div class="info">
+                                <span>Python</span>
+                                <p><b>this is python</p></p>
+                            
+                            </div>
+                                <div class="progress-line python">
+                                <span></span>
+                                
+                            </div>
+                            <div class="bar"><i style="color: #69bcbc;" class='bx bxl-java'></i>
+                                <div class="info">
+                                    <span>Java</span>
+                                    <p><b>this is java</p></p>
+                                
+                                </div>
+                                    <div class="progress-line java">
+                                    <span></span>
+                                    
+                                </div>
+
+                                
+                </div>
+            </div>
+        </div>
+    
+    </section>
+    
